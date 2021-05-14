@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
 import { connect } from 'react-redux';
-import { incrementAction, decreaseAction } from '../redux/actions/actionsgit add';
+import { incrementAction, decreaseAction } from '../redux/actions/actions';
 
 class Page extends PureComponent {
   render() {
